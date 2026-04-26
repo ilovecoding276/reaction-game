@@ -24,4 +24,4 @@ JavaScript
 Live Game
 
 You can play the game here:
-Paste your GitHub Pages link here
+(https://ilovecoding276.github.io/reaction-game/)
